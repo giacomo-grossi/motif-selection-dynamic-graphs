@@ -1,7 +1,7 @@
 # Motif selection for inference in regime-switching dynamic random graphs
 
 Code of the project *Motif Selection for Inference in Regime-Switching Dynamic Random Graphs*
-(Giacomo Grossi, Rice University, Spring 2026, with Prof. Arlei Silva). The report is in
+(Giacomo Grossi, Rice University  (COMP 459 / COMP 559), Spring 2026, with Prof. Arlei Silva). The report is in
 [`docs/report.pdf`](docs/report.pdf).
 
 Two dynamic Erdős–Rényi graphs on N vertices evolve in parallel: in graph i every vertex pair is
